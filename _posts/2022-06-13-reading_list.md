@@ -15,4 +15,4 @@ author:
 
 ### postgres
 
-[1]The Internals of PostgreSQL for database administrators and system developershttp://www.interdb.jp/pg/index.html
+[1][The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg/index.html)
